@@ -12,11 +12,15 @@ Then you add in the setup and code (`Automate2StepAuth.applescript`) to create t
 
 <img width="1217" alt="Automator" src="https://user-images.githubusercontent.com/31450556/112774807-a994f780-8fef-11eb-9223-b1deb935b772.png">
 
-Afterwards, save this in your `Applications` folder and then run the modified application you've made. This should bring up prompts asking if you would like to enable Privacy options under `System Preferences > Security & Privacy > Privacy`. 
+Afterwards, save this in your `Applications` folder and then run the modified application you've made. 
+
+<img width="246" alt="Applications" src="https://user-images.githubusercontent.com/31450556/112775466-cd593d00-8ff1-11eb-949b-4083ae001231.png">
+
+This should bring up prompts asking if you would like to enable Privacy options under `System Preferences > Security & Privacy > Privacy`. 
 
 <img width="254" alt="Security" src="https://user-images.githubusercontent.com/31450556/112775019-6c7d3500-8ff0-11eb-86fa-e1c213538911.png">
 
-You want to click ok for this prompt. Then, make sure you add your modified app `Myberduck` to the list in `System Preferences > Security & Privacy > Privacy > Accessibility`.
+You want to click ok for this prompt and all subsequent ones. Depending on your MacOS version, the necessary prompts may not all pop up. You want to make sure your modified app (`Myberduck`) is added to the list in `System Preferences > Security & Privacy > Privacy > Accessibility`.
 
 <img width="662" alt="Accessibility" src="https://user-images.githubusercontent.com/31450556/112775192-f927f300-8ff0-11eb-82a4-5d4eb316b37b.png">
 
