@@ -8,7 +8,7 @@ We can use a simple approach by writing some Applescript to completely automate 
 
 <img width="1210" alt="New Application" src="https://user-images.githubusercontent.com/31450556/112774894-ec56cf80-8fef-11eb-97b9-84479f818c92.png">
 
-Then you add in the setup and code to create the new modified app I've named as `Myberduck` below.
+Then you add in the setup and code (`Automate2StepAuth.applescript`) to create the new modified app I've named as `Myberduck` below.
 
 <img width="1217" alt="Automator" src="https://user-images.githubusercontent.com/31450556/112774807-a994f780-8fef-11eb-9223-b1deb935b772.png">
 
