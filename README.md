@@ -24,4 +24,4 @@ You want to click ok for this prompt and all subsequent ones. Depending on your 
 
 <img width="662" alt="Accessibility" src="https://user-images.githubusercontent.com/31450556/112775192-f927f300-8ff0-11eb-82a4-5d4eb316b37b.png">
 
-In summary, each time you try to login to your server, as long as you have set the authentication procedure correctly, it will *automatically* paste in your 2-step authentication code.
+In summary, each time you try to login to your server, as long as you have set the authentication procedure correctly, it will **automatically** paste in your 2-step authentication code.
